@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Nayanahighcpc3</string>
+
+    <string name="admob_app_id">ca-app-pub-2633909586705557~6851914589</string>
+    <string name="banner_home_footer">ca-app-pub-2633909586705557/8655008899</string>
+    <string name="interstitial_full_screen">ca-app-pub-2633909586705557/6660342892</string>
+</resources>
